@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "workflowb3f18b20": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
